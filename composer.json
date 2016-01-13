@@ -1,0 +1,21 @@
+{
+    "name": "shiftplanning/php-sdk",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "PHP client library for shiftplanning",
+    "keywords": ["shiftplanning"],
+    "homepage": "https://github.com/Al2zone/php-sdk",
+    "license": "TBD",
+    "authors": [
+        {
+            "name": "Alan Levi",
+            "email": "alan@tunalityllc.com",
+            "homepage": "http://tunalityllc.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+    }
+}
